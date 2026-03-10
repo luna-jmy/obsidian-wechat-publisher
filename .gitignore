@@ -20,6 +20,7 @@ Thumbs.db
 .idea/
 .qwen/
 .qoder/
+.claude/
 
 # TypeScript cache
 *.tsbuildinfo
