@@ -1,0 +1,10 @@
+{
+  "id": "mp-publisher",
+  "name": "WeChat Publisher",
+  "version": "1.0.3",
+  "minAppVersion": "0.15.0",
+  "description": "Based on MP Publisher (original author: joeytoday). Preview with custom CSS themes and publish articles to WeChat Official Accounts with one click.",
+  "author": "luna-jmy",
+  "authorUrl": "https://github.com/luna-jmy",
+  "isDesktopOnly": false
+}
