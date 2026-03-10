@@ -1,3 +1,5 @@
+> **原仓库**: 本项目基于 [joeytoday/obsidian-mp-publisher](https://github.com/joeytoday/obsidian-mp-publisher) 进行开发。
+
 # MP Publisher - 微信公众号发布插件
 
 一个功能强大的 Obsidian 插件，支持自定义 CSS 主题样式预览和一键发布到微信公众号。
