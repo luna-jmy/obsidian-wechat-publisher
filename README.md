@@ -1,4 +1,4 @@
-> **原仓库**: 本项目基于 [joeytoday/obsidian-mp-publisher](https://github.com/joeytoday/obsidian-mp-publisher) 进行开发。
+> **原仓库**: 本项目基于 [joeytoday/obsidian-mp-publisher](https://github.com/joeytoday/obsidian-mp-publisher) 进行开发。增加及修改内容见CHAGELOG。
 
 # MP Publisher - 微信公众号发布插件
 
@@ -44,12 +44,12 @@ https://github.com/user-attachments/assets/24288345-b5c8-4613-956b-78b622317d95
 ### 通过 BRAT 插件安装（推荐）
 1. 在 Obsidian 社区插件中搜索并安装 [BRAT](https://github.com/TfTHacker/obsidian42-brat) 插件
 2. 打开 BRAT 设置，点击 **Add beta plugin**
-3. 粘贴仓库链接：`https://github.com/joeytoday/obsidian-mp-publisher.git`
+3. 粘贴仓库链接：`https://github.com/luna-jmy/obsidian-wechat-publisher`
 4. 可选择安装版本，点击确认即可自动安装
 5. 在 Obsidian 设置中启用插件
 
 ### 手动安装
-1. 前往 [Releases](https://github.com/joeytoday/obsidian-mp-publisher/releases) 下载最新版本的 `mp-publisher.zip` 文件
+1. 前往 [Releases](https://github.com/joeytoday/obsidian-mp-publisher/releases) 下载最新版本的 `wechat-publisher.zip` 文件
 2. 将文件解压到你的 Obsidian 仓库 `<vault>/.obsidian/plugins/` 目录下
 3. 重新加载 Obsidian
 4. 在设置中启用插件
